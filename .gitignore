@@ -14,3 +14,5 @@ _book
 *.epub
 *.mobi
 *.pdf
+.idea/
+Would skip repository git_hug/
